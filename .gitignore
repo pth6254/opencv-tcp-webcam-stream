@@ -1,0 +1,11 @@
+# CMake 빌드 산출물
+build/
+
+# 개발용 작업 지시서 / 에디터 설정
+TASK.md
+.vscode/
+.idea/
+*.swp
+
+# 실행 중 생성되는 파일
+frame_test.jpg
